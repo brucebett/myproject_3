@@ -1,0 +1,60 @@
+
+nav{
+    text-align: right;
+
+
+}
+
+button{
+    height: 30px;
+    width: 120px;
+    border: black;
+    background-color: unset;
+    color: white;
+}
+.one{
+    height: 60vh
+}
+.two{
+    height: 40vh;
+}
+.three{
+      height: 40vh;
+}
+.four{
+    height: 40vh;
+}
+
+img{
+    text-align: center;
+    height: 40vh;
+    width: 25%;
+}
+.f_one img{
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    margin-left: 50%;
+
+}
+.f_two img{
+    height: 30px;
+    width: 30px;
+    margin-left: 50%;
+}
+
+.f_three img{
+    height: 30px;
+    width: 30px;
+    margin-left: 50%;
+}
+
+section{
+    margin-top: 200px;
+    padding: 30px;
+}
+
+h4{
+    font-family: Nakula;
+    text-align: center;
+}
